@@ -1,7 +1,5 @@
 # convert
-Convert Between Units
-
-Libraries to convert between units
+Convert between units
 
 So far, only python is added
 
